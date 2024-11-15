@@ -1,0 +1,20 @@
+[
+  {
+    "id": 123,
+    "title": "the",
+    "author": "ultimate",
+    "is_issued": true
+  },
+  {
+    "id": 111,
+    "title": "hello",
+    "author": "world",
+    "is_issued": false
+  },
+  {
+    "id": 222,
+    "title": "hello",
+    "author": "world",
+    "is_issued": false
+  }
+]
